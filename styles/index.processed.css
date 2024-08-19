@@ -1,0 +1,74 @@
+/**
+ * index.scss
+ * - Add any styles want here!
+ */
+body {
+  background: white;
+  font-family: arial;
+  margin: 0px;
+}
+
+header {
+  background-color: #C6E9D3;
+  padding: 10px;
+}
+
+header h1 {
+  color: white;
+}
+
+header a {
+  color: black;
+}
+
+main {
+  background-color: white;
+}
+
+footer {
+  background-color: #FFD7CB;
+  background-image: url("/img/footerbg.png");
+}
+
+footer p {
+  color: hotpink;
+}
+
+a {
+  color: hotpink;
+}
+
+div {
+  margin: 50px;
+}
+
+div h1 {
+  color: darkgreen;
+  font-family: courier new;
+}
+
+button {
+  display: inline-block;
+  color: black;
+  font-weight: 500;
+  font-size: 14px;
+  background: #9bbf9b;
+  border: dotted black;
+  border-radius: 15px;
+  padding: 5px 10px;
+}
+
+button:hover {
+  opacity: 0.5;
+  background: transparent;
+}
+
+table {
+  border: black;
+  border-with: thick;
+}
+
+footer a:hover {
+  opacity: 0.5;
+  background-color: transparent;
+}
