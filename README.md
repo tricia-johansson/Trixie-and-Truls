@@ -7,6 +7,6 @@ This is what I came up with!
 
 See my Trixie and Truls page live here: https://tricia-johansson.github.io/Trixie-and-Truls
 
-![Screenshot](https://tricii.com/trixie1.png)
+![Screenshot](https://trixjoyce.com/GitHub/trixie1.png)
 
-![Screenshot](https://tricii.com/trixie2.png)
+![Screenshot](https://trixjoyce.com/GitHub/trixie2.png)
