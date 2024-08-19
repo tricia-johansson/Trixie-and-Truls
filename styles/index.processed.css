@@ -27,7 +27,7 @@ main {
 
 footer {
   background-color: #FFD7CB;
-  background-image: url("/img/footerbg.png");
+  background-image: url("https://raw.githubusercontent.com/tricia-johansson/Trixie-and-Truls/main/img/footerbg.png");
 }
 
 footer p {
